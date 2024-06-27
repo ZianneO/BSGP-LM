@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)]
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/conda_binder2024.git/py37_r353)
 
 (https://mybinder.org/v2/gh/ZianneO/conda_binder2024.git/py37_r353)
 
