@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/zianneo-bsgp-lm-4qxbcm6k/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 43,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "szZOdpIoQfSwmoi03P4x3w",
+  "url": "http://jupyter-zianneo-2dbsgp-2dlm-2d4qxbcm6k:8888/user/zianneo-bsgp-lm-4qxbcm6k/",
+  "version": "2.13.0"
+}
