@@ -1,4 +1,4 @@
-# Conda rep for Linear Modeling in R 
+# Conda repo for Linear Modeling in R 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP-LM/HEAD)
 
