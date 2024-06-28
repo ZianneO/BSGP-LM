@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/zianneo-bsgp-lm-4qxbcm6k/",
+  "base_url": "/user/zianneo-bsgp-lm-w27n11qu/",
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 43,
@@ -7,7 +7,7 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
-  "token": "szZOdpIoQfSwmoi03P4x3w",
-  "url": "http://jupyter-zianneo-2dbsgp-2dlm-2d4qxbcm6k:8888/user/zianneo-bsgp-lm-4qxbcm6k/",
+  "token": "Bga4wCE4TMaGm44IliexcA",
+  "url": "http://jupyter-zianneo-2dbsgp-2dlm-2dw27n11qu:8888/user/zianneo-bsgp-lm-w27n11qu/",
   "version": "2.13.0"
 }
